@@ -52,3 +52,4 @@ plugins:
 #   - vendor/ruby/
 
 excerpt_separator: "<!-- more -->"
+permalink: /:title
